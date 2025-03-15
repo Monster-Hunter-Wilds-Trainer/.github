@@ -1,1 +1,0 @@
-console.log("Monster Hunter Wilds Trainer is active!");
